@@ -1,0 +1,10 @@
+img{
+    height: 60px;
+    width: 60px;
+}
+
+div{
+    width: 200px;
+    margin: 100px auto;
+    display: flex;
+}
